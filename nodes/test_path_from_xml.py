@@ -57,7 +57,7 @@ path_1 = [step_0_1, step_1_1, step_2_1, step_3_1, step_4_1]
 path_2 = [step_0_2, step_1_2, step_2_2, step_3_2, step_4_2]
 path_3 = [step_0_3, step_1_3, step_2_3, step_3_3, step_4_3]
 path_4 = [step_0_4, step_1_4, step_2_4, step_3_4, step_4_4, step_5_4, step_6_4]
-path_5 = [step_0_5, step_1_5, step_2_5, step_3_5, step_4_5, step_5_5, step_6_5, step_6_5]
+path_5 = [step_0_5, step_1_5, step_2_5, step_3_5, step_4_5, step_5_5, step_6_5, step_6_5, step_7_5]
 
 
 def prepare_path_msg(step_list, robot_id):
